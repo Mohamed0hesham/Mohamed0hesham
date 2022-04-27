@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed hesham
-- 👀 I’m interested in coding and developing mobile applications
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested in coding and developing mobile and web applications 
+- 🌱 I’m currently learning backend web development
+- 💞️ I’m looking to collaborate on fullstack web projects
 - 📫 You can reach me through this "moahamad_hesham1@hotmail.com
 
 <!---
