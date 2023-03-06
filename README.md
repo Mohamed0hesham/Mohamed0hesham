@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed hesham
 - 👀 I’m interested in coding and developing mobile and web applications 
-- 🌱 I’m currently working as a Frontend web developer at Variiance
+- 🌱 I’m currently working as a Frontend developer at Variiance
 - 💞️ I’m looking to collaborate on fullstack web projects
 - 📫 You can reach me through this "mohamedelrayes1@gmail.com"
 
